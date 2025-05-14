@@ -1,0 +1,9 @@
+Ans 1. It helps track changes, collaborate easily, and revert to previous versions of code safely.
+Ans 2. Centralized VCS has one main server; Distributed VCS allows each user to have a local copy of the repository.
+Ans 3. Git is a version control system; GitHub is a cloud platform for hosting Git repositories.
+Ans 4. It’s a space where changes are prepared before committing to the repository.
+Ans 5. It stores the entire history of the project, including commits, branches, and configuration.
+Ans 6. Git branching allows parallel development; use git branch branch-name to create and git checkout branch-name or git switch branch-name to switch.
+Ans 7. git reset only moves the branch pointer; git reset --hard discards all changes permanently.
+Ans 8. It combines multiple commits into one; used to keep the commit history clean.
+Ans 9. It moves commits from one branch to another, creating a cleaner history; useful for linear project history.
